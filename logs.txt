@@ -1,0 +1,47 @@
+[2026-11-17 22:55:15] [INFO] El sistema se ha iniciado correctamente.
+[2026-11-17 22:55:15] [ERROR] Intento fallido de conexión.
+[2026-11-17 22:58:31] [INFO] El sistema se ha iniciado correctamente.
+[2026-11-17 22:58:31] [ERROR] Intento fallido de conexión.
+[2026-11-17 23:01:55] [INFO] Cliente Andrés Paz creado exitosamente.
+[2026-11-17 23:01:55] [ERROR] Cédula inválida registrada: ABC123
+[2026-11-17 23:01:55] [ERROR] Correo inválido registrado: ana_correo_invalido
+[2026-11-17 23:03:59] [ERROR] Se intentó usar un servicio no disponible: Cámara 4K
+[2026-11-17 23:05:34] [INFO] Reserva 100 confirmada para Laura Torres
+[2026-11-17 23:05:34] [INFO] Pago procesado para reserva 100. Total: $120
+[2026-11-17 23:07:22] [ERROR] Cédula inválida registrada: ABC123
+[2026-11-17 23:07:22] [INFO] Reserva 100 confirmada para Juan Perez
+[2026-11-17 23:07:22] [INFO] Pago procesado para reserva 100. Total: $100
+[2026-11-17 23:07:22] [INFO] Reserva 101 confirmada para Juan Perez
+[2026-11-17 23:07:22] [ERROR] Error al procesar pago de reserva 101: La duración debe ser mayor a cero.
+[2026-11-17 23:07:22] [INFO] Reserva 102 confirmada para Juan Perez
+[2026-11-17 23:07:22] [ERROR] Error al procesar pago de reserva 102: El servicio 'Computador Gamer' no está disponible en este momento.
+[2026-11-17 23:09:23] [ERROR] Cédula inválida registrada: ABC123
+[2026-11-17 23:09:23] [INFO] Reserva 100 confirmada para Juan Perez
+[2026-11-17 23:09:23] [INFO] Pago procesado para reserva 100. Total: $100
+[2026-11-17 23:09:23] [INFO] Reserva 101 confirmada para Juan Perez
+[2026-11-17 23:09:23] [ERROR] Error al procesar pago de reserva 101: La duración debe ser mayor a cero.
+[2026-11-17 23:09:23] [INFO] Reserva 102 confirmada para Juan Perez
+[2026-11-17 23:09:23] [ERROR] Error al procesar pago de reserva 102: El servicio 'Computador Gamer' no está disponible en este momento.
+[2026-11-17 23:09:23] [INFO] Reserva 103 confirmada para Ana Martinez
+[2026-11-17 23:09:23] [INFO] Reserva 104 confirmada para Ana Martinez
+[2026-11-17 23:09:23] [WARNING] Reserva 104 cancelada.
+[2026-11-17 23:16:25] [ERROR] Cédula inválida registrada: ABC123
+[2026-11-17 23:16:25] [INFO] Reserva 100 confirmada para Juan Perez
+[2026-11-17 23:16:25] [INFO] Pago procesado para reserva 100. Total: $100
+[2026-11-17 23:16:25] [INFO] Reserva 101 confirmada para Juan Perez
+[2026-11-17 23:16:25] [ERROR] Error al procesar pago de reserva 101: La duración debe ser mayor a cero.
+[2026-11-17 23:16:25] [INFO] Reserva 102 confirmada para Juan Perez
+[2026-11-17 23:16:25] [ERROR] Error al procesar pago de reserva 102: El servicio 'Computador Gamer' no está disponible en este momento.
+[2026-11-17 23:16:25] [INFO] Reserva 103 confirmada para Ana Martinez
+[2026-11-17 23:16:25] [INFO] Reserva 104 confirmada para Ana Martinez
+[2026-11-17 23:16:25] [WARNING] Reserva 104 cancelada.
+[2026-11-17 23:16:34] [ERROR] Cédula inválida registrada: ABC123
+[2026-11-17 23:16:34] [INFO] Reserva 100 confirmada para Juan Perez
+[2026-11-17 23:16:34] [INFO] Pago procesado para reserva 100. Total: $100
+[2026-11-17 23:16:34] [INFO] Reserva 101 confirmada para Juan Perez
+[2026-11-17 23:16:34] [ERROR] Error al procesar pago de reserva 101: La duración debe ser mayor a cero.
+[2026-11-17 23:16:34] [INFO] Reserva 102 confirmada para Juan Perez
+[2026-11-17 23:16:34] [ERROR] Error al procesar pago de reserva 102: El servicio 'Computador Gamer' no está disponible en este momento.
+[2026-11-17 23:16:34] [INFO] Reserva 103 confirmada para Ana Martinez
+[2026-11-17 23:16:34] [INFO] Reserva 104 confirmada para Ana Martinez
+[2026-11-17 23:16:34] [WARNING] Reserva 104 cancelada.
